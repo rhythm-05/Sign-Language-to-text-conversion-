@@ -1,1 +1,1 @@
-# Sign-Language-to-text-conversion-
+# Sign Language to text conversion
